@@ -1,8 +1,8 @@
-# Nesta tarefa você vai implementar uma árvore AVL
+# Nesta atividade foi implementado uma árvore AVL
 
-Para esta tarefa, modifique o código atual da maneira que você achar necessário.
+Foi feito uma modificação no código disponibilizado pelo professor, afim de ordenar corretamente os valores.
 
-# Dicas
+# Dicas fornecidas pelo professor
 ## Armazenar outras informações no nó.
 1. Armazenar a altura da subárvore enraizada naquele nó. Isso permitirá que você calcule o fator de balanceamento.
 
