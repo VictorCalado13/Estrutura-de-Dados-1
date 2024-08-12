@@ -9,6 +9,6 @@ Foi feito uma modificação no código disponibilizado pelo professor, afim de o
 ## ROTR e ROTL
 1. As funções de rotação devem ser corrigidas para que seja possível rastrear a quantidade de nós na árvore e a altura da árvore
 
-## Use o graphivz online para visualizar a árvore nos teus testes.
+## Foi utilizado o graphivz online para visualizar a árvore durante os testes do código.
 
 https://dreampuf.github.io/GraphvizOnline/
